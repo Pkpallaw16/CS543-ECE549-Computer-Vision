@@ -1,0 +1,6 @@
+background
+sports
+accessory
+animal
+vehicle
+person

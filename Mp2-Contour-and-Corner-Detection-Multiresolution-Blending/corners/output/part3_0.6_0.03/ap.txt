@@ -1,0 +1,2 @@
+                  ap: 0.505074  
+runtime (in seconds): 0.571351  
